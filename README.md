@@ -2,7 +2,8 @@
 
 This project is a web-based sorting visualizer that helps users understand how different sorting algorithms work by displaying animated bar transitions. The application allows users to choose from multiple algorithms, control the speed, and adjust the number of elements being sorted in real time. It is built using only HTML, CSS, and JavaScript, making it lightweight and easy to understand for learners.
 
-# Live demo: https://mr-jay-04.github.io/Sorting-Algorithm-Visualiser/
+# Live demo: 
+https://mr-jay-04.github.io/Sorting-Algorithm-Visualiser/
 
 ## Project Description
 
